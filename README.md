@@ -4,8 +4,6 @@ Type: Master's Thesis
 
 Author: Akanksha Saxena
 
-Supervisor: 
-
 1st Examiner: Prof. Dr. Stefan Lessmann
 
 2nd Examiner: Prof. Dr. Benjamin Fabian
