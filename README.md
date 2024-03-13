@@ -8,6 +8,8 @@ Author: Akanksha Saxena
 
 2nd Examiner: Prof. Dr. Benjamin Fabian
 
+Date: 09.03.2024
+
 Master Thesis submitted to the School of Business and Economics of Humboldt-Universität zu Berlin for the degree M.Sc. Economics and Management Science.
 
 ![image](https://github.com/Akanksha0919/Uplift-Modeling-in-Dynamic-Pricing/assets/65400521/812aa420-168d-4155-b1c6-6f818f742829)
