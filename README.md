@@ -14,6 +14,16 @@ Master Thesis submitted to the School of Business and Economics of Humboldt-Univ
 This image shows the result of causal analysis of optimal pricing strategy on consumer purchase probability
 
 ## Table of Content
+* Summary
+* Working with Repo
+   * Dependencies
+   * Setup
+* Reproducing Results
+   * Usage
+   * Data Preparation Code
+   * Training Code
+   * Result Code
+* Project Structure
 
 
 ## Summary 
