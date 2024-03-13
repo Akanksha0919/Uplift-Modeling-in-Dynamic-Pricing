@@ -44,6 +44,8 @@ When executing the Python files, the following is the correct order:
 Part 1 -->> Part 2 -->> Part 3 -->> Part 4 -->> Part 5 (Please follow this order while running the notebooks)
 
 ### Data Preparation code:
+1. Part 1- Olist Product data preparation: Olist datasets are aggregated at product level to get demands for each product - each day
+2. Part 4-Consumer Purchase Probability Estimation: Datasets from Olist, SIDRA and optimal pricing strategy are integrated for further use in purchase probability estiamtion
 
 
 ### Training code
@@ -65,3 +67,5 @@ This notebook contains Data engineering for optimal pricing model.
 
 ### Result Code:
 "Part 5-Causal analysis with Continous DID estimator using TWFE" contains results of continous DID.
+
+## Project Structure
