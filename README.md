@@ -11,6 +11,7 @@ Author: Akanksha Saxena
 Master Thesis submitted to the School of Business and Economics of Humboldt-Universität zu Berlin for the degree M.Sc. Economics and Management Science.
 
 ![image](https://github.com/Akanksha0919/Uplift-Modeling-in-Dynamic-Pricing/assets/65400521/812aa420-168d-4155-b1c6-6f818f742829)
+
 This image shows the result of causal analysis of optimal pricing strategy on consumer purchase probability
 
 ## Table of Content
