@@ -69,3 +69,27 @@ This notebook contains Data engineering for optimal pricing model.
 "Part 5-Causal analysis with Continous DID estimator using TWFE" contains results of continous DID.
 
 ## Project Structure
+```
+📦 
+├─ Data
+│  ├─ Olist
+│  │  ├─ Data description
+│  │  ├─ olist_customers_dataset.csv
+│  │  ├─ olist_order_items_dataset.csv
+│  │  ├─ olist_order_payments_dataset.csv
+│  │  ├─ olist_orders_dataset.csv
+│  │  ├─ olist_products_dataset.csv
+│  │  └─ product_category_name_translation.csv
+│  └─ SIDRA
+│     ├─ Data Description
+│     ├─ aging_index.xlsx
+│     ├─ median_age.xlsx
+│     └─ sex_ratio.xlsx
+├─ Part 1- Olist Product data preparation.ipynb
+├─ Part 2-Dynamic Pricing Estimation model.ipynb
+├─ Part 3- Olist Consumer data Preparation.ipynb
+├─ Part 4-Consumer Purchase Probability Estimation.ipynb
+├─ Part 5-Causal analysis with Continous DID estimator using TWFE.ipynb
+├─ README.md
+└─ utility.py
+```
