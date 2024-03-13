@@ -10,8 +10,6 @@ Author: Akanksha Saxena
 
 Date: 09.03.2024
 
-Master Thesis submitted to the School of Business and Economics of Humboldt-Universität zu Berlin for the degree M.Sc. Economics and Management Science.
-
 ![image](https://github.com/Akanksha0919/Uplift-Modeling-in-Dynamic-Pricing/assets/65400521/812aa420-168d-4155-b1c6-6f818f742829)
 
 This image shows the result of causal analysis of optimal pricing strategy on consumer purchase probability
@@ -33,7 +31,7 @@ This image shows the result of causal analysis of optimal pricing strategy on co
 
 Adopting the dataset from a Brazilian e-commerce company containing information on daily product demand and consumer purchase behavior, this paper utilizes the continuous difference-in-difference estimator (DID) model to incorporate consumer purchase behavior in dynamic pricing model development. This paper proposes a novel approach to a dynamic pricing algorithm that comprises the following components: First, the dataset is divided into two groups one is the control group which contains the base price, and the other is the Treatment group which will contain optimal prices recommended from the dynamic pricing algorithm. Next, a dynamic pricing model is implemented to derive optimal prices for the treatment group. Finally, the causal impact of optimal prices on consumer purchase probability is examined for before and after dynamic pricing intervention. The empirical results that emerged from the incorporation of continuous DID in a dynamic pricing framework show that dynamic pricing intervention has a statistically significant and positive effect on consumer purchase probability. The results show that implementing dynamic pricing on elastic products is likely to increase the consumer's purchase probability, whereas no effect is accumulated for inelastic products. This paper implies that incorporating the causal analysis in dynamic pricing strategy based on historical data can provide significant improvements in pricing strategy by mitigating risks of negative consumer reaction to variation in and proximity of dynamic pricing.
 
-Keywords: Dynamic Pricing, Consumer Purchase Probability,Continous Treatment Effect,Continous Difference-in-Difference,Quasi=Experimental approach
+Keywords: Dynamic Pricing, Consumer Purchase Probability,Continous Treatment Effect,Continous Difference-in-Difference,Quasi-Experimental approach
 
 Full Text : https://drive.google.com/file/d/13F2Hj_eZOJAVLJc3vlHAUFsebGnLA3Oo/view?usp=drive_link
 ## Working with Repo
