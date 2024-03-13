@@ -35,6 +35,7 @@ Adopting the dataset from a Brazilian e-commerce company containing information 
 
 Keywords: Dynamic Pricing, Consumer Purchase Probability,Continous Treatment Effect,Continous Difference-in-Difference,Quasi=Experimental approach
 
+Full Text : https://drive.google.com/file/d/13F2Hj_eZOJAVLJc3vlHAUFsebGnLA3Oo/view?usp=drive_link
 ## Working with Repo
 
 ### Dependencies
